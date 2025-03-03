@@ -1,0 +1,121 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  background-color: aqua;
+}
+
+header {
+  margin: 2em;
+  text-align: center;
+  border: 3px dashed black;
+}
+
+#fTh {
+  margin: auto;
+  margin-top: 3rem;
+  text-align: center;
+  padding: 0.5rem;
+  font-size: 2rem;
+  font-style: italic;
+  background-color: white;
+  width: 30%;
+  border: 2px solid black;
+}
+
+input {
+  margin: auto;
+  display: block;
+  text-align: center;
+  padding: 0.5rem 1rem;
+  font-size: 1.5rem;
+  width: 80%;
+  height: 10%;
+  border: 3px double black;
+}
+  
+button {
+  margin: auto;
+  display: block;
+  margin-top: 3rem;
+  padding: 1rem 1.5rem;
+  font-size: 1.5rem;
+  font-style: italic;
+  font-weight: 800;
+  border: 2px solid black;
+  background-color: rgb(230, 164, 85);
+}
+
+#wCh {
+  margin: auto;
+  margin-top: 3rem;
+  text-align: center;
+  padding: 0.5rem 1rem;
+  margin-right: 10rem;
+  margin-left: 10rem;
+  font-size: 2rem;
+  background-color: white;
+  font-style: italic;
+  border: 2px solid black;
+}
+
+#wordCount {
+  margin: auto;
+  text-align: center;
+  padding: 0.5rem 1rem;
+  margin-right: 10rem;
+  margin-left: 10rem;
+  font-size: 1.5rem;
+  background-color: rgb(209, 209, 190);
+  font-weight: 800;
+}
+
+#lCh {
+  margin: auto;
+  margin-top: 3rem;
+  text-align: center;
+  padding: 0.5rem 1rem;
+  font-size: 2rem;
+  width: 70%;
+  background-color: white;
+  font-style: italic;
+  border: 2px solid black;
+}
+
+#letterCount {
+  margin: auto;
+  text-align: center;
+  padding: 0.5rem 1rem;
+  font-size: 1.5rem;
+  width: 70%;
+  background-color: rgb(209, 209, 190);
+  font-weight: 800;
+}
+
+#fullText {
+  margin: auto;
+  margin-top: 3rem;
+  text-align: center;
+  padding: 0.5rem 1rem;
+  font-size: 1.5rem;
+  font-style: italic;
+  background-color: white;
+  width: 60%;
+  height: 10%;
+  border: 3px double black;
+}
+
+#copyright {
+  margin: auto;
+  margin-top: 1rem;
+  text-align: center;
+  background-color: rgb(206, 199, 199);
+  width: 100%;
+}
